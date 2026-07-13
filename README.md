@@ -6,7 +6,9 @@
 
 ### Backend .NET Developer | ASP.NET Core Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3399FF&center=true&vCenter=true&width=700&lines=Backend+.NET+Developer;ASP.NET+Core+Developer;Clean+Architecture+Enthusiast;SQL+Server+Developer;Always+Learning+New+Technologies"/>
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3399FF&center=true&vCenter=true&width=700&lines=Backend+.NET+Developer;ASP.NET+Core+Developer;Clean+Architecture+Enthusiast;Onion+Architecture+Lover;Always+Learning+New+Technologies"/>
+</p>
 
 ![](https://komarev.com/ghpvc/?username=a7medmohamed116&color=blue)
 
@@ -18,29 +20,49 @@
 
 🎓 Third-Year Computer Science Student at **Faculty of Computers and Artificial Intelligence, Cairo University**
 
-💻 Passionate about Backend Development using **ASP.NET Core**
+💻 Passionate about building scalable backend applications using **ASP.NET Core** and **C#**.
 
-🏛 Interested in **Clean Architecture**
+🏛️ Interested in **Clean Architecture** & **Onion Architecture**
 
-🗄 Passionate about **SQL Server & Database Design**
+🗄️ Passionate about **SQL Server**, Database Design & Query Optimization.
 
-📊 Interested in **Query Optimization & ETL (SSIS)**
-
-🧩 Competitive Programmer
+🚀 Love building secure RESTful APIs with modern backend technologies.
 
 🌱 Currently learning advanced ASP.NET Core and Enterprise Backend Development.
 
 ---
 
+# 🚀 Core Skills
+
+- ASP.NET Core MVC
+- ASP.NET Core Web API
+- Clean Architecture
+- Onion Architecture
+- Entity Framework Core
+- SQL Server
+- LINQ
+- Repository Pattern
+- Unit of Work
+- SOLID Principles
+- JWT Authentication
+- ASP.NET Core Identity
+- Role-Based Authorization
+- AutoMapper
+- Payment Integration
+- Caching
+- RESTful APIs
+
+---
+
 # 💻 Tech Stack
 
-## Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=cs,cpp,java,python,html,css"/>
 </p>
 
-## Backend
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=dotnet"/>
@@ -54,38 +76,19 @@
 - Identity
 - JWT Authentication
 
----
-
-## Database
+### Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql"/>
-
 </p>
 
 - SQL Server
 
----
-
-## Tools
+### Tools
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,visualstudio,docker,azure"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,postman,visualstudio,vscode,docker,azure"/>
 </p>
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=a7medmohamed116&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7medmohamed116&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
@@ -99,34 +102,66 @@
 
 ---
 
-# 🏆 GitHub Trophies
+# 🌟 Featured Projects
 
-<div align="center">
+## 🛒 E-Commerce API
 
-<img src="https://github-profile-trophy.vercel.app/?username=a7medmohamed116&theme=algolia&no-frame=true&row=1"/>
+**ASP.NET Core Web API | Onion Architecture | SQL Server**
 
-</div>
+A scalable backend application built using **Onion Architecture** and modern ASP.NET Core best practices.
+
+### Features
+
+- 🧅 Onion Architecture
+- 🛍️ Product, Brand & Type Management
+- 🛒 Shopping Basket
+- 💳 Payment Integration
+- 🔐 ASP.NET Core Identity
+- 🔑 Authentication & Authorization
+- ⚡ Caching
+- 🗄️ SQL Server Database
+- 📦 Repository Pattern
+- 🧩 Unit of Work
+- 🌍 External Database Integration
+- 📄 Swagger API Documentation
 
 ---
 
-# 🌟 Featured Project
+## 🏋️ Gym Management System
 
-## 🏋 Gym Management System
+**ASP.NET Core MVC | SQL Server**
 
-**ASP.NET Core MVC | Entity Framework Core | SQL Server**
+A complete web application for managing gym operations.
 
-A complete web application for managing gym operations including:
+### Features
 
-- Member Management
-- Trainer Scheduling
-- Membership Plans
-- Session Booking
-- Authentication & Authorization
-- SQL Server Database
+- 👤 Member Management
+- 💪 Trainer Management
+- 📋 Membership Plans
+- 📅 Session Booking
+- 🔐 Authentication & Authorization
+- 👑 Role-Based Access Control
+- 📊 Dashboard
+- 🗄️ SQL Server Database
 
-### 🔗 Repository
+🔗 **Repository**
 
 https://github.com/a7medmohamed116/MyGym
+
+---
+
+## 🇪🇬 Egypt Explorer AI *(Graduation Project)*
+
+**AI Powered Tourism Platform**
+
+### Planned Features
+
+- 🤖 AI Chatbot
+- 🗺️ Interactive Maps
+- 🏛️ Landmark Information
+- 📸 Image Recognition
+- ✈️ Smart Trip Planner
+- 🌐 Multi-language Support
 
 ---
 
@@ -138,9 +173,13 @@ https://github.com/a7medmohamed116/MyGym
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
+&nbsp;&nbsp;
+
 <a href="https://www.linkedin.com/in/ahmed-ali-0a491a292/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
+
+&nbsp;&nbsp;
 
 <a href="https://github.com/a7medmohamed116">
 <img src="https://skillicons.dev/icons?i=github"/>
@@ -152,8 +191,8 @@ https://github.com/a7medmohamed116/MyGym
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 💙 Thanks for visiting my profile!
 
-*"Code. Learn. Build. Repeat."*
+*"First, solve the problem. Then, write the code."* – John Johnson
 
 </div>
