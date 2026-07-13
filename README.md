@@ -186,3 +186,11 @@ https://github.com/a7medmohamed116/MyGym
 *"First, solve the problem. Then, write the code."* – John Johnson
 
 </div>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/a7medmohamed116/a7medmohamed116/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
