@@ -1,191 +1,216 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F9CF9,100:1E3A8A&text=Ahmed%20Mohamed&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20.NET%20Developer&descAlignY=55"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Ahmed%20Mohamed&fontSize=50&color=0:00B4DB,50:0083B0,100:0052D4&animation=fadeIn"/>
 
-# Hi 👋 I'm Ahmed Mohamed
+<img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Backend+Developer;ASP.NET+Developer"/>
 
-### Backend .NET Developer | ASP.NET Core Enthusiast
-
-<p>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3399FF&center=true&vCenter=true&width=700&lines=Backend+.NET+Developer;ASP.NET+Core+Developer;Clean+Architecture+Enthusiast;Onion+Architecture+Lover;Always+Learning+New+Technologies"/>
-</p>
-
-![](https://komarev.com/ghpvc/?username=a7medmohamed116&color=blue)
+<img src="https://komarev.com/ghpvc/?username=a7medmohamed116&label=Profile%20Views&color=2563EB&style=for-the-badge"/>
 
 </div>
+---
+
+# 💫 About Me
+
+🎓 Fourth-year **Information Systems (IS)** Student
+
+💻 Passionate **Backend Developer** focused on building scalable and maintainable applications.
+
+⚙️ Skilled in **C#, ASP.NET Core, ASP.NET MVC, Web API, Entity Framework Core, SQL Server, and Laravel.**
+
+🗄️ Interested in **Database Design, REST APIs, Clean Architecture, and Software Design Patterns.**
+
+🚀 Currently improving my Backend Development skills through real-world projects and internships.
 
 ---
 
-# 💙 About Me
+## 💻 Languages
 
-🎓 Third-Year Computer Science Student at **Faculty of Computers and Artificial Intelligence, Cairo University**
+<p align="center">
 
-💻 Passionate about building scalable backend applications using **ASP.NET Core** and **C#**.
+<img src="https://img.shields.io/badge/C%23-9B5DE5?style=for-the-badge&logo=csharp&logoColor=white"/>
 
-🏛️ Interested in **Clean Architecture** & **Onion Architecture**
+<img src="https://img.shields.io/badge/Java-F77F00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-🗄️ Passionate about **SQL Server**, Database Design & Query Optimization.
+<img src="https://img.shields.io/badge/Python-4CC9F0?style=for-the-badge&logo=python&logoColor=white"/>
 
-🚀 Love building secure RESTful APIs with modern backend technologies.
+<img src="https://img.shields.io/badge/C++-FF6B6B?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 
-🌱 Currently learning advanced ASP.NET Core and Enterprise Backend Development.
+<img src="https://img.shields.io/badge/PHP-FF70A6?style=for-the-badge&logo=php&logoColor=white"/>
 
----
+<img src="https://img.shields.io/badge/JavaScript-F9C74F?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-# 🚀 Core Skills
+<img src="https://img.shields.io/badge/SQL-43AA8B?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-- ASP.NET Core MVC
-- ASP.NET Core Web API
-- Clean Architecture
-- Onion Architecture
-- Entity Framework Core
-- SQL Server
-- LINQ
-- Repository Pattern
-- Unit of Work
-- SOLID Principles
-- JWT Authentication
-- ASP.NET Core Identity
-- Role-Based Authorization
-- AutoMapper
-- Payment Integration
-- Caching
-- RESTful APIs
+<img src="https://img.shields.io/badge/Prolog-FF99C8?style=for-the-badge"/>
 
----
-
-# 💻 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cs,cpp,java,python,html,css"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=dotnet"/>
-</p>
-
-- ASP.NET Core MVC
-- ASP.NET Core Web API
-- Entity Framework Core
-- LINQ
-- AutoMapper
-- Identity
-- JWT Authentication
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
-
-- SQL Server
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,visualstudio,vscode,docker,azure"/>
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## ⚙️ Backend
 
-<div align="center">
+<p align="center">
 
-<img src="https://streak-stats.demolab.com?user=a7medmohamed116&theme=tokyonight&hide_border=true"/>
+<img src="https://img.shields.io/badge/.NET-5A189A?style=for-the-badge&logo=dotnet&logoColor=white"/>
 
-</div>
+<img src="https://img.shields.io/badge/ASP.NET_Core-4361EE?style=for-the-badge&logo=dotnet&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/ASP.NET_MVC-3A0CA3?style=for-the-badge&logo=dotnet&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Web_API-F72585?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Laravel-FF6B6B?style=for-the-badge&logo=laravel&logoColor=white"/>
+
+</p>
+
+---
+
+## 🧠 Concepts
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LINQ-FF006E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OOP-F15BB5?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SOLID_Principles-00BBF9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Design_Patterns-00F5D4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Data_Structures-FEE440?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Algorithms-F3722C?style=for-the-badge"/>
+
+</p>
+
+---
+
+## 🗄️ Database
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/SQL_Server-00B4D8?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Entity_Framework_Core-90DBF4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+
+</p>
+
+---
+
+## 🌐 Frontend
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML5-FF6B6B?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-4895EF?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F9C74F?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+</p>
+
+---
+
+## 🛠 Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Git-F77F00?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-FCBF49?style=for-the-badge&logo=github&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Postman-E36414?style=for-the-badge&logo=postman&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Visual_Studio-9B5DE5?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VS_Code-4CC9F0?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+</p>
 
 ---
 
 # 🌟 Featured Projects
 
-## 🛒 E-Commerce API
+### 🔹 Gym Management System
 
-**ASP.NET Core Web API | Onion Architecture | SQL Server**
+✨ ASP.NET Core MVC application for gym management and membership tracking.
 
-A scalable backend application built using **Onion Architecture** and modern ASP.NET Core best practices.
+🏗️ Implemented Layered Architecture, Repository Pattern, Generic Repository, Unit of Work, and Service Layer patterns.
 
-### Features
+🔐 Integrated ASP.NET Identity for Authentication & Authorization.
 
-- 🧅 Onion Architecture
-- 🛍️ Product, Brand & Type Management
-- 🛒 Shopping Basket
-- 💳 Payment Integration
-- 🔐 ASP.NET Core Identity
-- 🔑 Authentication & Authorization
-- ⚡ Caching
-- 🗄️ SQL Server Database
-- 📦 Repository Pattern
-- 🧩 Unit of Work
-- 🌍 External Database Integration
-- 📄 Swagger API Documentation
+🛠️ Tech: ASP.NET Core MVC, C#, EF Core, SQL Server, AutoMapper.
+
+🔗 https://github.com/a7medmohamed116/MyGym.git
 
 ---
 
-## 🏋️ Gym Management System
+### 🔹 E-Commerce API
 
-**ASP.NET Core MVC | SQL Server**
+✨ ASP.NET Core Web API for managing products, baskets, orders, and user authentication.
 
-A complete web application for managing gym operations.
+🏗️ Built using Clean Architecture with Repository Pattern, Generic Repository, Unit of Work, Specification Pattern, and Service Layer.
 
-### Features
+🔐 Implemented ASP.NET Identity with JWT Authentication & Role-Based Authorization.
 
-- 👤 Member Management
-- 💪 Trainer Management
-- 📋 Membership Plans
-- 📅 Session Booking
-- 🔐 Authentication & Authorization
-- 👑 Role-Based Access Control
-- 📊 Dashboard
-- 🗄️ SQL Server Database
+⚡ Integrated Redis for basket caching and optimized API performance.
 
-🔗 **Repository**
-
-https://github.com/a7medmohamed116/MyGym
+🛠️ Tech: ASP.NET Core Web API, C#, EF Core, SQL Server, Redis, AutoMapper, JWT.
+https://github.com/a7medmohamed116/ECommerce.git
 
 ---
 
-## 🇪🇬 Egypt Explorer AI *(Graduation Project)*
+# 📊 GitHub Status
 
-**AI Powered Tourism Platform**
+<p align="center">
 
-### Planned Features
+<img src="https://github-readme-stats.vercel.app/api?username=a7medmohamed116&show_icons=true&theme=tokyonight"/>
 
-- 🤖 AI Chatbot
-- 🗺️ Interactive Maps
-- 🏛️ Landmark Information
-- 📸 Image Recognition
-- ✈️ Smart Trip Planner
-- 🌐 Multi-language Support
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a7medmohamed116&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=a7medmohamed116&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-<div align="center">
+# 🌐 Connect With Me
 
-<a href="mailto:ahmedali1282727@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p align="center">
 
 <a href="https://www.linkedin.com/in/ahmed-ali-0a491a292/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LinkedIn-FF70A6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
-<a href="https://github.com/a7medmohamed116">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="mailto:ahmed.mohamed.swdev@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-FF9770?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
-</div>
+</p>
 
-### 💙 Thanks for visiting my profile!
+---
 
-*"First, solve the problem. Then, write the code."* – John Johnson
+# 📄 My Resume
 
-</div>
+<p align="center">
+
+<a href="https://drive.google.com/file/d/1gZ4adTP7K73Y6AdBsWUrRyIbZbo6hbm9/view?usp=sharing">
+
+<img src="https://img.shields.io/badge/Download%20CV-8338EC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+
+</a>
+
+</p>
 
 ---
 
